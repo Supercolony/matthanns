@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1000 1000" enable-background="new 0 0 1000 1000" xml:space="preserve">
+<polyline fill="#E6E7E8" points="320,450 410,360 410.001,270 280.001,400 "/>
+<polyline fill="#E6E7E8" points="330,540 410,460 410.001,370 290,490 "/>
+<polygon fill="#F1F2F2" points="280,400 280,490 410,620 410,530 "/>
+<polygon fill="#E6E7E8" points="410,530 410,620 490,540 490,450 "/>
+<polyline fill="#E6E7E8" points="660,440 570,530 569.999,620 699.999,490 "/>
+<polyline fill="#E6E7E8" points="650,350 570,430 569.999,520 690,400 "/>
+<polygon fill="#F1F2F2" points="700,490 700,400 570,270 570,360 "/>
+<polygon fill="#E6E7E8" points="570,360 570,270 490,350 490,440 "/>
+<path fill="#F1F2F2" d="M410.001,370L490,450v90l-80-80 M570,530l-80-80v90l79.999,80"/>
+<path fill="#F1F2F2" d="M410.001,270L490,350v90l-80-80 M570,430l-80-80v90l79.999,80"/>
+</svg>

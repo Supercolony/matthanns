@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1136 640" enable-background="new 0 0 1136 640" xml:space="preserve">
+<polygon fill="#FFFFFF" stroke="#E76D2C" stroke-miterlimit="10" points="560,268 584,268 584,164 560,188 560,220 "/>
+<rect x="584" y="236" fill="#FFFFFF" stroke="#E76D2C" stroke-miterlimit="10" width="80" height="8"/>
+<rect x="584" y="220" fill="#FFFFFF" stroke="#E76D2C" stroke-miterlimit="10" width="56" height="16"/>
+<rect x="584" y="212" fill="#FFFFFF" stroke="#E76D2C" stroke-miterlimit="10" width="16" height="8"/>
+<rect x="600" y="212" fill="#FFFFFF" stroke="#E76D2C" stroke-miterlimit="10" width="56" height="8"/>
+<rect x="584" y="196" fill="#FFFFFF" stroke="#E76D2C" stroke-miterlimit="10" width="24" height="16"/>
+<rect x="608" y="204" fill="#FFFFFF" stroke="#E76D2C" stroke-miterlimit="10" width="32" height="8"/>
+<polygon fill="#FFFFFF" stroke="#E76D2C" stroke-miterlimit="10" points="584,164 584,148 592,148 592,196 584,196 "/>
+<rect x="592" y="156" fill="#FFFFFF" stroke="#E76D2C" stroke-miterlimit="10" width="16" height="40"/>
+<rect x="608" y="180" fill="#FFFFFF" stroke="#E76D2C" stroke-miterlimit="10" width="24" height="24"/>
+<rect x="584" y="244" fill="#FFFFFF" stroke="#E76D2C" stroke-miterlimit="10" width="32" height="8"/>
+<rect x="584" y="252" fill="#FFFFFF" stroke="#E76D2C" stroke-miterlimit="10" width="56" height="16"/>
+<polygon fill="#FFFFFF" stroke="#E76D2C" stroke-miterlimit="10" points="640,252 688,252 688,244 616,244 616,252 "/>
+<rect x="640" y="220" fill="#FFFFFF" stroke="#E76D2C" stroke-miterlimit="10" width="8" height="16"/>
+<rect x="648" y="220" fill="#FFFFFF" stroke="#E76D2C" stroke-miterlimit="10" width="64" height="16"/>
+<polygon fill="#FFFFFF" stroke="#E76D2C" stroke-miterlimit="10" points="552,212 552,172 560,172 560,220 "/>
+<path fill="#FFFFFF" stroke="#E76D2C" stroke-miterlimit="10" d="M560,265c-9.941,0-18-8.059-18-18s8.059-18,18-18V265z"/>
+<path fill="#FFFFFF" stroke="#E76D2C" stroke-miterlimit="10" d="M662,220c0-9.941,8.059-18,18-18s18,8.059,18,18H662z"/>
+<path fill="#FFFFFF" stroke="#E76D2C" stroke-miterlimit="10" d="M619.667,180c0-3.406,2.761-6.167,6.167-6.167S632,176.594,632,180
+	H619.667z"/>
+<path fill="#FFFFFF" stroke="#E76D2C" stroke-miterlimit="10" d="M570.597,268.001c8.827,20.768,29.414,35.332,53.403,35.332
+	c29.778,0,54.314-22.441,57.621-51.333L640,252v16L570.597,268.001z"/>
+</svg>

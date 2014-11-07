@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1000 1000" enable-background="new 0 0 1000 1000" xml:space="preserve">
+<polygon fill="#231F20" points="140,158 240,158 140,258 "/>
+<polygon fill="#231F20" points="90,108 190,108 90,208 "/>
+<polygon fill="#231F20" points="510,80 530,100 490,100 "/>
+<polygon fill="#231F20" points="470,80 490,100 450,100 "/>
+<polygon fill="#231F20" points="430,80 450,100 410,100 "/>
+<polygon fill="#231F20" points="390,80 410,100 370,100 "/>
+<polygon fill="#231F20" points="350,80 370,100 330,100 "/>
+<polygon fill="#231F20" points="310,80 330,100 290,100 "/>
+<polygon fill="#231F20" points="270,80 290,100 250,100 "/>
+<polygon fill="#231F20" points="230,80 250,100 210,100 "/>
+<polygon fill="#231F20" points="190,80 210,100 170,100 "/>
+<polygon fill="#231F20" points="150,80 170,100 130,100 "/>
+<polygon fill="#231F20" points="110,80 130,100 90,100 "/>
+<polygon fill="#231F20" points="190,208 290,208 190,308 "/>
+<polygon fill="#231F20" points="240,258 340,258 240,358 "/>
+<polygon fill="#231F20" points="290,308 340,308 290,358 "/>
+<path fill="#231F20" d="M495,423c0,55.2-44.8,100-100,100s-100-44.8-100-100s44.8-100,100-100S495,367.8,495,423z M395,388
+	c-19.3,0-35,15.7-35,35s15.7,35,35,35s35-15.7,35-35S414.3,388,395,388z"/>
+<path fill="#231F20" d="M760,148c0-38.7,31.3-70,70-70s70,31.3,70,70"/>
+<path fill="#231F20" d="M760,218c0-38.7,31.3-70,70-70s70,31.3,70,70"/>
+<path fill="#231F20" d="M760,288c0-38.7,31.3-70,70-70s70,31.3,70,70"/>
+<path fill="#231F20" d="M900,868c0,38.7-31.3,70-70,70s-70-31.3-70-70"/>
+<path fill="#231F20" d="M900,798c0,38.7-31.3,70-70,70s-70-31.3-70-70"/>
+<path fill="#231F20" d="M900,728c0,38.7-31.3,70-70,70s-70-31.3-70-70"/>
+<circle fill="#231F20" cx="490" cy="588" r="30"/>
+<circle fill="#231F20" cx="490" cy="658" r="30"/>
+<circle fill="#231F20" cx="490" cy="728" r="30"/>
+<circle fill="#231F20" cx="420" cy="588" r="30"/>
+<circle fill="#231F20" cx="420" cy="588" r="10"/>
+<circle fill="#231F20" cx="420" cy="658" r="30"/>
+<circle fill="#231F20" cx="420" cy="728" r="30"/>
+<circle fill="#231F20" cx="350" cy="588" r="30"/>
+<circle fill="#231F20" cx="350" cy="658" r="30"/>
+<circle fill="#231F20" cx="350" cy="728" r="30"/>
+<circle fill="#231F20" cx="640" cy="508" r="20"/>
+<circle fill="#231F20" cx="640" cy="608" r="20"/>
+<circle fill="#231F20" cx="640" cy="408" r="20"/>
+<polygon fill="#231F20" points="540,358 540,458 640,358 "/>
+<polygon fill="#231F20" points="540,458 540,558 640,458 "/>
+<polygon fill="#231F20" points="540,558 540,658 640,558 "/>
+<polygon fill="#231F20" points="740,658 740,558 640,658 "/>
+<polygon fill="#231F20" points="740,458 740,358 640,458 "/>
+<polygon fill="#231F20" points="740,558 740,458 640,558 "/>
+<rect x="697.9" y="78" fill="#231F20" width="42.1" height="260"/>
+<rect x="540" y="78" fill="#231F20" width="42.1" height="260"/>
+<rect x="592.6" y="78" fill="#231F20" width="42.1" height="260"/>
+<rect x="645.3" y="78" fill="#231F20" width="42.1" height="260"/>
+<rect x="697.9" y="678" fill="#231F20" width="42.1" height="260"/>
+<rect x="540" y="678" fill="#231F20" width="42.1" height="260"/>
+<rect x="592.6" y="678" fill="#231F20" width="42.1" height="260"/>
+<rect x="645.3" y="678" fill="#231F20" width="42.1" height="260"/>
+<rect x="90" y="868" fill="#231F20" width="140" height="70"/>
+<path fill="#231F20" d="M900,518"/>
+<rect x="250" y="158" fill="#231F20" width="280" height="40"/>
+<rect x="300" y="208" fill="#231F20" width="230" height="40"/>
+<rect x="350" y="258" fill="#231F20" width="180" height="40"/>
+<rect x="200" y="108" fill="#231F20" width="330" height="40"/>
+<rect x="190" y="318" fill="#231F20" width="40" height="540"/>
+<rect x="140" y="268" fill="#231F20" width="40" height="590"/>
+<rect x="90" y="218" fill="#231F20" width="40" height="640"/>
+<rect x="810" y="298" fill="#231F20" width="40" height="420"/>
+<rect x="860" y="298" fill="#231F20" width="10" height="420"/>
+<rect x="790" y="298" fill="#231F20" width="10" height="420"/>
+<path fill="#231F20" d="M530,940H240V778h290V940z M350,810h-80v100h80V810z M500,810h-80v100h80V810z M400,810h-30v100h30V810z"/>
+<rect x="260" y="350" fill="#231F20" width="10" height="420"/>
+<rect x="280" y="490" fill="#231F20" width="10" height="280"/>
+<rect x="300" y="530" fill="#231F20" width="10" height="240"/>
+<rect x="240" y="370" fill="#231F20" width="10" height="400"/>
+</svg>
